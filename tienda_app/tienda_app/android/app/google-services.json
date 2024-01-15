@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90698058405",
+    "project_id": "multi-store-app-e71a1",
+    "storage_bucket": "multi-store-app-e71a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90698058405:android:95726d3765f4af6f119b4c",
+        "android_client_info": {
+          "package_name": "com.wferreira.tienda_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLw4TH1DnTiMk1rMZAuc4BKAfJ0WcFtoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
